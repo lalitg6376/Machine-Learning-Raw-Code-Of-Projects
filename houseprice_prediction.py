@@ -110,3 +110,4 @@ print("price of house is --->", pre)
 with open("model.pkl","wb") as file:
     pickle.dump(model,file)
 print("model saved successfully")
+
